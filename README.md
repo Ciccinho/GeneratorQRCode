@@ -1,5 +1,5 @@
 # GeneratorQRCode
-Generatore di QR Code per l'accesso ad una rete WiFi domestiche tramite API REST.
+Generatore di QR Code per l'accesso ad una rete WiFi domestica tramite API REST.
 
 #BackEnd 
 Linguaggio Java con implementazione Spring e Spring Boot realizzato tramite tecnologia API REST con la realizzazione di un Controller ricevente la chiamata, un Service a cui viene inoltrata la chiamate ed elaborata la risposta.
