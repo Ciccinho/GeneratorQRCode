@@ -1,0 +1,32 @@
+.text-center{
+  display: block;
+  padding: 30px 40px;
+}
+
+label {
+  display: block;
+  margin-top: 20px;
+}
+  
+.class-container.card {
+  max-width: 600px !important;
+  padding: 60px 60px;
+}
+  
+.card {
+  background-color: #f2eeee;
+  max-width: 400px;
+  margin: 0 auto 25px;
+  margin-top: 50px;
+  -moz-border-radius: 2px;
+  -webkit-border-radius: 2px;
+  border-radius: 2px;
+  -moz-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+  -webkit-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+  box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+}  
+
+.center-img {
+  display: block;
+  margin: 0 auto;
+}
