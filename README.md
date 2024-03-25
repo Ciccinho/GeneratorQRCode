@@ -1,7 +1,7 @@
 # GeneratorQRCode
 Generatore di QR Code tramite API REST.
 
-# BackEnd 
+#BackEnd 
 Linguaggio Java con implementazione Spring e Spring Boot realizzato tramite tecnologia API REST con la realizzazione di un Controller ricevente la chiamata, un Service a cui viene inoltrata la chiamate ed elaborata la risposta.
 
 #FrontEnd
